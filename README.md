@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm GopiChand Akkala</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
